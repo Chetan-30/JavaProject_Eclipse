@@ -1,1 +1,1 @@
-Basic Banking based java project. Uploaded using GitBash from local system.
+Basic Banking based java project. Uploaded using Eclipse from local system.
